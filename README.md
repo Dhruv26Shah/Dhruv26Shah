@@ -1,4 +1,4 @@
-- 🎓 Hello, I’m Dhruv.S.Shah, currently operating on my engineering journey from Jain (Deemed-to be) University, Bengaluru.
+- 🎓 Hello, I’m Dhruv.S.Shah, currently pursuing on my engineering journey from Jain (Deemed-to be) University, Bengaluru.
 - 👀 I’m interested in learning new languages, working on projects,etc.
 - 🌱 I’m currently learning full stack web development and few coding languages.
 - 😄 I really enjoy learning🚀 new languages and frameworks like React⚛,Typescript,etc.
